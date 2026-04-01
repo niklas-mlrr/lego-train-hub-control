@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ### Hauptprogramm starten
 
 ```bash
-python main.py
+python3 main.py
 ```
 
 **Wichtig:** Der Train Base sollte **eingeschaltet** sein, bevor das Programm gestartet wird. Das Programm sucht automatisch nach einem Train Hub und verbindet sich.
